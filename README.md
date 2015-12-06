@@ -17,10 +17,16 @@ to change that value within few months or so. The current position
 can be found on the internet. It was 80 deg. as of 11th Jan 2002.
 
 Original Version History:
-16 Jan 2001: Version 1.2
-- fixed some drawing of the moons
-15 Jan 2001: Version 1.1
-- displaying of the moons (with labels) when close to the planet
-11 Jan 2001: Version 1.0
-- following the red spot, displaying of jupiters distance
+
+6 Dec 2015: Version 1.21:
+cleanup, license update
+
+16 Jan 2001: Version 1.2:
+fixed some drawing of the moons
+
+15 Jan 2001: Version 1.1:
+displaying of the moons (with labels) when close to the planet
+
+11 Jan 2001: Version 1.0:
+following the red spot, displaying of jupiters distance
 
